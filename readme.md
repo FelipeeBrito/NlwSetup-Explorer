@@ -43,4 +43,6 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
+## Contato:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/felipe-brito-58445929/)]( https://www.linkedin.com/in/felipe-brito-58445929/)
 
