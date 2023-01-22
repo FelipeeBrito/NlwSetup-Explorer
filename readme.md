@@ -32,7 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habist é um app para ajudar a rastrear os hábitos.
+O Habit é um app para ajudar a rastrear os hábitos.
+
+-[Visite o projeto online](https://owllskull.github.io/NlwSetup-Explorer/)
 
 ## 🔖 Layout
 
