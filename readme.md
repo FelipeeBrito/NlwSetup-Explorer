@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habit é um app para ajudar a rastrear os hábitos.
 
--[Visite o projeto online](https://owllskull.github.io/NlwSetup-Explorer/)
+-[Visite o projeto online](https://FelipeeBrito.github.io/NlwSetup-Explorer/)
 
 ## 🔖 Layout
 
